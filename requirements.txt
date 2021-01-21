@@ -1,0 +1,2 @@
+ExifRead==2.3.2
+pywikibot==5.5.0
