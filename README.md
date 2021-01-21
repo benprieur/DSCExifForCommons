@@ -1,4 +1,4 @@
-#DSCExifForCommons
+# DSCExifForCommons
 
 Ce code ajoute le paramètre "heading:" au template "Location dec" à une image de Wikimedia Commons. Pour cela :
 - On récupère les données EXIF de l'image en ligne ;
